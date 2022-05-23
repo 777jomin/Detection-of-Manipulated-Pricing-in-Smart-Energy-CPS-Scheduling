@@ -1,0 +1,4 @@
+Download the git repository contents to a single folder.
+This can be done by using the command "git clone https://github.com/777jomin/Detection-of-Manipulated-Pricing-in-Smart-Energy-CPS-Scheduling".
+The contents of the repository Detection-of-Manipulated-Pricing-in-Smart-Energy-CPS-Scheduling will now be available in your local machine.
+Execute the run.sh file to perform complete execution of code and obtain the bar chart results in '/Plots',the Testing results in TestingResults.txt and prediction results in PredictionsOnly.txt.
