@@ -12,6 +12,12 @@ The contents of the repository Detection-of-Manipulated-Pricing-in-Smart-Energy-
 
 Execute the 'run.sh' file to perform complete execution of code and obtain the bar chart results in '/Plots',the Testing results in TestingResults.txt and prediction results in PredictionsOnly.txt.
 
+
+
+
+
 PS: If you get an error saying "./run.sh: line 2: $'\r': command not found" or "command not found" or ": not found"
-    please run the following command before executing 'run.sh'
-    sed -i -e 's/\r$//' run.sh
+
+   please run the following command before executing 'run.sh'
+   
+   sed -i -e 's/\r$//' run.sh
