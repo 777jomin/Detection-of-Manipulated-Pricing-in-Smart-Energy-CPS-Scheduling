@@ -5,9 +5,12 @@ According to the problem statement of the coursework, we are provided with the d
 TO RUN
 
 Clone the git repository contents to a single folder.
+
 This can be done by using the command "git clone https://github.com/777jomin/Detection-of-Manipulated-Pricing-in-Smart-Energy-CPS-Scheduling".
+
 The contents of the repository Detection-of-Manipulated-Pricing-in-Smart-Energy-CPS-Scheduling will now be available on your local machine.
-Execute the 'run.sh' file to perform complete execution of code and obtain the bar chart results in '/ Plots',the Testing results in TestingResults.txt and prediction results in PredictionsOnly.txt.
+
+Execute the 'run.sh' file to perform complete execution of code and obtain the bar chart results in '/Plots',the Testing results in TestingResults.txt and prediction results in PredictionsOnly.txt.
 
 PS: If you get an error saying "./run.sh: line 2: $'\r': command not found" or "command not found" or ": not found"
     please run the following command before executing 'run.sh'
