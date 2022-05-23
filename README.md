@@ -8,7 +8,7 @@ According to the problem statement of the coursework, we are provided with the d
 
 
 
-TO RUN
+TO RUN:
 
 Clone the git repository contents to a single folder.
 
